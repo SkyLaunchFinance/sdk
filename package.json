@@ -1,7 +1,7 @@
 {
   "name": "@skylaunch/sdk",
   "license": "MIT",
-  "version": "3.2.20",
+  "version": "3.2.21",
   "description": "🏂 An SDK for building applications on top of Sky Launch Finance.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
