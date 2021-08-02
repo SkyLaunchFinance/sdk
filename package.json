@@ -1,18 +1,17 @@
 {
-  "name": "@zeroexchange/sdk",
+  "name": "@skylaunch/sdk",
   "license": "MIT",
   "version": "3.2.20",
-  "description": "🏂 An SDK for building applications on top of Zero Exchange.",
+  "description": "🏂 An SDK for building applications on top of Sky Launch Finance.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/zeroexchange/sdk.git",
+  "repository": "https://github.com/skylaunchfinance/sdk.git",
   "keywords": [
-    "zeroexchange",
-    "zero",
-    "avalanche",
+    "skylaunch",
+    "skylaunchfinance",
     "uniswap"
   ],
   "module": "dist/sdk.esm.js",
